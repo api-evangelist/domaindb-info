@@ -39,7 +39,6 @@ apis:
   - name: DomainDb Info
     description: "Domain name search to find all domains containing particular words/phrases/etc"
     humanURL: https://api.domainsdb.info/
-    baseURL: https://api.domainsdb.info/
     tags:
       - Development
     properties:
